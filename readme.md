@@ -3,3 +3,5 @@
 
 1. Point local.uploadsDirectory property inside src/main/resources/application.properties file to a directory that is writeable.
 
+
+## Example Input File: students_data.txt
